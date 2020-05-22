@@ -1,0 +1,36 @@
+body {
+  font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:1.2em;
+}
+h1 {
+  float: right;
+  text-transform: uppercase;
+}
+#wrapper {
+  padding: 20px;
+  width: 1024px;
+  margin: auto;
+  overflow:auto
+}
+#header {
+  margin: none;
+  padding: 20px;
+  height: 600px;
+  background-image: url("fixedit.jpg");
+  background-repeat: no-repeat;
+  background-position: topleft;
+}
+#content {
+  padding: 0px 10px 20px 10px;
+}
+#info {
+  float: right;
+  border: 1px solid;
+  background-color: lightgrey;
+  width: 200px;
+  padding: 10px;
+  margin: 0px;
+}
+#footer {
+  font: .6em;
+  color: grey;
+}
